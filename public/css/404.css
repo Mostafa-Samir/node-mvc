@@ -1,0 +1,12 @@
+﻿body {
+    background-color: rgba(255,0,0,0.05);
+}
+            
+#not-found {
+    position: absolute;
+    font-size: 60px;
+    top: 25%;
+    left: 40%;
+    color: rgba(255, 0, 0, 0.7);
+    font-family: fantasy;
+}

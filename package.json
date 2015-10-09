@@ -1,0 +1,13 @@
+{
+    "name": "node-mvc",
+    "version": "0.1.7",
+    "description": "a minimal mvc framework for node.js that mimics php's laravel 4 structure",
+    "author": {
+        "name": "Mostafa Samir",
+        "url": "http://mostafa-samir.github.io/",
+        "email": "mostafa.3210@gmail.com"
+    },
+    "dependencies": {
+        "mime": "^1.2.11"
+    }
+}
