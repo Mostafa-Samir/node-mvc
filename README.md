@@ -1,5 +1,5 @@
 # node-mvc
-This is the source code of a tiny web mvc framework I built a year ago for node-js. This project was for educational purposes as I wanted to get a feel of how everything can be done from scratch. I thought I might it share in case it can help anyone who's going through the same phase.
+This is the source code of a tiny web mvc framework I built a year ago for node-js. This project was for educational purposes as I wanted to get a feel of how everything can be done from scratch. I thought I might share it in case it can help anyone who's going through the same phase.
 
 The framework mimics the structure of php's laravel 4 and it consists of the following:
 * a simple routing engine that supports parameterized routes with GET, POST, PUT, and DELETE methods
